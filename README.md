@@ -2,7 +2,7 @@
 <h3 align="center">Explorando o mundo da tecnologia</h3>
 <h4 align="center">Me chamo Igor Alves Bastos, tenho 19 anos, sou natural de Uberlândia e atualmente moro em Cuiabá (MT). Estou cursando Engenharia de Software no Centro Universitário UNIVAG e, no momento, dedicando meus estudos ao universo do desenvolvimento Back-end</h4>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
+<h3 align="left">Liguagens e ferramentas:</h3>
 <a href="https://dev.java/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
